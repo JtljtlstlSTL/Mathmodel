@@ -2,7 +2,7 @@
 
 > *Record our trace of practices*  
 
-This repository collects our practice works, codes, and documents for mathematical modeling competitions.  
+This repository collects our practice works, codes, and documents for mathematical modeling competitions.  (including 2014A,2021B,2022B,2023B,2024B)
 We aim to **record the entire process of thinking, modeling, coding, and reflecting**, so that future us (and anyone interested) can revisit the path we have taken.
 
 ---
@@ -19,18 +19,11 @@ We aim to **record the entire process of thinking, modeling, coding, and reflect
 ## 🛠 Tools & Languages
 - **MATLAB** – numerical computation & optimization  
 - **Python** – simulation, data analysis, visualization  
-- **LaTeX** – writing papers and technical documents  
-
----
-
-## 🚀 Purpose
-- To **document our progress** in mathematical modeling.  
-- To **improve teamwork and research ability**.  
-- To **build a reusable knowledge base** for future competitions.  
+- **LaTeX** – writing papers and technical documents    
 
 ---
 
 ## 📖 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourName/Mathmodel.git
+   git clone https://github.com/JTLjtlstlSTL/Mathmodel.git
